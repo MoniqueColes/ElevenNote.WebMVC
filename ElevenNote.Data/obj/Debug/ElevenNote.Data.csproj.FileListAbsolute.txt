@@ -1,0 +1,16 @@
+C:\RedBadge\ElevenNote\ElevenNote.Data\bin\Debug\ElevenNote.Data.dll.config
+C:\RedBadge\ElevenNote\ElevenNote.Data\bin\Debug\ElevenNote.Data.dll
+C:\RedBadge\ElevenNote\ElevenNote.Data\bin\Debug\ElevenNote.Data.pdb
+C:\RedBadge\ElevenNote\ElevenNote.Data\bin\Debug\EntityFramework.dll
+C:\RedBadge\ElevenNote\ElevenNote.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\RedBadge\ElevenNote\ElevenNote.Data\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\RedBadge\ElevenNote\ElevenNote.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\RedBadge\ElevenNote\ElevenNote.Data\bin\Debug\EntityFramework.xml
+C:\RedBadge\ElevenNote\ElevenNote.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\RedBadge\ElevenNote\ElevenNote.Data\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\RedBadge\ElevenNote\ElevenNote.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\RedBadge\ElevenNote\ElevenNote.Data\obj\Debug\ElevenNote.Data.csprojAssemblyReference.cache
+C:\RedBadge\ElevenNote\ElevenNote.Data\obj\Debug\ElevenNote.Data.csproj.CoreCompileInputs.cache
+C:\RedBadge\ElevenNote\ElevenNote.Data\obj\Debug\ElevenNote.Data.csproj.CopyComplete
+C:\RedBadge\ElevenNote\ElevenNote.Data\obj\Debug\ElevenNote.Data.dll
+C:\RedBadge\ElevenNote\ElevenNote.Data\obj\Debug\ElevenNote.Data.pdb
