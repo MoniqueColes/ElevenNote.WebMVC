@@ -14,3 +14,6 @@ C:\RedBadge\ElevenNote\ElevenNote.Data\obj\Debug\ElevenNote.Data.csproj.CoreComp
 C:\RedBadge\ElevenNote\ElevenNote.Data\obj\Debug\ElevenNote.Data.csproj.CopyComplete
 C:\RedBadge\ElevenNote\ElevenNote.Data\obj\Debug\ElevenNote.Data.dll
 C:\RedBadge\ElevenNote\ElevenNote.Data\obj\Debug\ElevenNote.Data.pdb
+C:\RedBadge\ElevenNote\ElevenNote.Data\obj\Debug\ElevenNote.Data.Migrations.InitialCreate.resources
+C:\RedBadge\ElevenNote\ElevenNote.Data\obj\Debug\ElevenNote.Data.csproj.GenerateResource.cache
+C:\RedBadge\ElevenNote\ElevenNote.Data\obj\Debug\ElevenNote.Data.Migrations.AddedIsStarred.resources
