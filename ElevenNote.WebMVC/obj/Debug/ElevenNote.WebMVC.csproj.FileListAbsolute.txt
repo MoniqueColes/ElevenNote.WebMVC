@@ -115,3 +115,9 @@ C:\RedBadge\ElevenNote\ElevenNote.WebMVC\bin\Microsoft.CodeDom.Providers.DotNetC
 C:\RedBadge\ElevenNote\ElevenNote.WebMVC\obj\Debug\ElevenNote.WebMVC.csproj.CopyComplete
 C:\RedBadge\ElevenNote\ElevenNote.WebMVC\obj\Debug\ElevenNote.WebMVC.dll
 C:\RedBadge\ElevenNote\ElevenNote.WebMVC\obj\Debug\ElevenNote.WebMVC.pdb
+C:\RedBadge\ElevenNote\ElevenNote.WebMVC\bin\System.Net.Http.Formatting.dll
+C:\RedBadge\ElevenNote\ElevenNote.WebMVC\bin\System.Web.Http.dll
+C:\RedBadge\ElevenNote\ElevenNote.WebMVC\bin\System.Web.Http.WebHost.dll
+C:\RedBadge\ElevenNote\ElevenNote.WebMVC\bin\System.Net.Http.Formatting.xml
+C:\RedBadge\ElevenNote\ElevenNote.WebMVC\bin\System.Web.Http.xml
+C:\RedBadge\ElevenNote\ElevenNote.WebMVC\bin\System.Web.Http.WebHost.xml

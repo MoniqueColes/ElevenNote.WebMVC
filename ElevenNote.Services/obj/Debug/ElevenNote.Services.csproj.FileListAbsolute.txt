@@ -20,3 +20,11 @@ C:\RedBadge\ElevenNote\ElevenNote.Services\bin\Debug\ElevenNote.Data.pdb
 C:\RedBadge\ElevenNote\ElevenNote.Services\bin\Debug\ElevenNote.Data.dll.config
 C:\RedBadge\ElevenNote\ElevenNote.Services\bin\Debug\ElevenNote.Models.pdb
 C:\RedBadge\ElevenNote\ElevenNote.Services\bin\Debug\ElevenNote.Models.dll.config
+C:\RedBadge\ElevenNote\ElevenNote.Services\bin\Debug\Newtonsoft.Json.dll
+C:\RedBadge\ElevenNote\ElevenNote.Services\bin\Debug\System.Net.Http.Formatting.dll
+C:\RedBadge\ElevenNote\ElevenNote.Services\bin\Debug\System.Web.Http.dll
+C:\RedBadge\ElevenNote\ElevenNote.Services\bin\Debug\System.Web.Http.WebHost.dll
+C:\RedBadge\ElevenNote\ElevenNote.Services\bin\Debug\Newtonsoft.Json.xml
+C:\RedBadge\ElevenNote\ElevenNote.Services\bin\Debug\System.Net.Http.Formatting.xml
+C:\RedBadge\ElevenNote\ElevenNote.Services\bin\Debug\System.Web.Http.xml
+C:\RedBadge\ElevenNote\ElevenNote.Services\bin\Debug\System.Web.Http.WebHost.xml
